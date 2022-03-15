@@ -1,1 +1,2 @@
-this directory contains projects on functions
+#!/bin/bash
+THis is a readme 
