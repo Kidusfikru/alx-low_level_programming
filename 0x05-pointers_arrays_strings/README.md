@@ -1,0 +1,1 @@
+This directory contains projects pointers, string and arrays
